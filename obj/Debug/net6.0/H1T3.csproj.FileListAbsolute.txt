@@ -1,0 +1,15 @@
+E:\GitH\H1T3\bin\Debug\net6.0\H1T3.exe
+E:\GitH\H1T3\bin\Debug\net6.0\H1T3.deps.json
+E:\GitH\H1T3\bin\Debug\net6.0\H1T3.runtimeconfig.json
+E:\GitH\H1T3\bin\Debug\net6.0\H1T3.dll
+E:\GitH\H1T3\bin\Debug\net6.0\H1T3.pdb
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.csproj.AssemblyReference.cache
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.AssemblyInfoInputs.cache
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.AssemblyInfo.cs
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.csproj.CoreCompileInputs.cache
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.dll
+E:\GitH\H1T3\obj\Debug\net6.0\refint\H1T3.dll
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.pdb
+E:\GitH\H1T3\obj\Debug\net6.0\H1T3.genruntimeconfig.cache
+E:\GitH\H1T3\obj\Debug\net6.0\ref\H1T3.dll
